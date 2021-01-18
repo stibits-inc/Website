@@ -186,6 +186,13 @@
 
   }
 
+
+  .subscriber-input {
+
+  width: 190px;
+ 
+  }
+
     .gs {
     max-width:45%;
     padding-top: 2em;
@@ -1137,6 +1144,7 @@ padding: 0px;
     line-height: normal;
     letter-spacing: normal;
     color: #08254d;
+    padding-bottom: 4em;
 }
 
 .faq-accordion-para {

@@ -36,11 +36,62 @@ body {
 }
 
 
+.button-bg {
+  height: 48px;
+  margin: 0;
+  padding: 12px 30px 12px 16px;
+  border-radius: 6px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  background-color: #ba0228;
+  float: left;
+  font-family: "Circular Std Book";
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+.subscriber-input {
+  height: 48px;
+  width: 300px;
+  margin: 0;
+  padding-left: 30px;
+  border-radius: 4px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border: solid 1px #dae1ed;
+  background-color: #fdfefe;
+  float: left;
+  
+}
+.subscriber-input::placeholder {
+  font-family: "Circular Std Book";
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.14;
+  letter-spacing: normal;
+  color: #a2acbb;
+}
+
+
+
 .qr
 {
   max-width: 20%;
     padding-bottom: 2em;
 }
+
+
+.down-load
+{
+  max-width: 50%;
+}
+
 
 .gs{
   max-width: 23%;
@@ -386,9 +437,7 @@ width: 140px;
   font-stretch: normal;
   font-style: normal;
   line-height: normal;
-  letter-spacing: 1.49px;
   color: #08254d;
-  text-transform: uppercase;
 }
 
 .back{
@@ -1034,14 +1083,15 @@ max-width: 75%;
 }
 
 
-.download{
-  width: 188px;
-  margin: 0 0 0 129px;
-  padding: 15px 16px 14px 10px;
-  border-radius: 6px;
-  box-shadow: 0 5px 8px 0 rgba(186, 2, 40, 0.17);
-  background-color: #ba0228;
+.strd{
+  max-width: 38%;
 }
+
+.str{
+  text-align: right;
+}
+
+
 
 .downloaad{
   margin-top: 2em;
