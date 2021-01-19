@@ -45,6 +45,10 @@ body {
     font-family: 'Circular Std Book' !important;
 }
 
+.store-app{
+  max-width: 50%;
+}
+
 
 .button-bg {
   height: 48px;
@@ -503,12 +507,15 @@ width: 140px;
   line-height: 1.47;
   letter-spacing: normal;
   color: #ffffff;
+    text-transform: none !important;
+
 }
 
 .How-it {
   font-size: 48px;
   font-weight: 600;
   color: #ffffff;
+  text-transform: none !important;
 }
 
 
@@ -2080,6 +2087,7 @@ button:focus, button:active {
   line-height: 1.17;
   letter-spacing: normal;
   color: #08254d;
+  margin-bottom: 1em;
 }
 
 .header-content p {
@@ -2112,7 +2120,7 @@ button:focus, button:active {
   padding-right: 12px;
   padding-left: 12px;
   margin-bottom: 20px;
-  width: 250px}
+  }
 
 .section-button li:last-child {
   margin-right: 0;
@@ -2121,6 +2129,10 @@ button:focus, button:active {
 .section-button li .btn1 {
   font-weight: 400;
   color: #0b2154;
+}
+
+.img-bi {
+  max-width: 100%;
 }
 
 .section-button li .btn1 span {
