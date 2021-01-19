@@ -36,6 +36,16 @@ body {
 }
 
 
+.hs-form {
+  
+  font-family: "Circular Std Book";
+ 
+}
+.hs-form-42dfe97e-6baf-446c-874a-328b268aa61b_8fa38246-1875-4d2a-84ee-41b8c592dbda .hs-main-font-element, .submitted-message.hs-main-font-element {
+    font-family: 'Circular Std Book' !important;
+}
+
+
 .button-bg {
   height: 48px;
   margin: 0;
@@ -85,6 +95,16 @@ body {
   max-width: 20%;
     padding-bottom: 2em;
 }
+
+
+.hs-richtext {
+    font-family: 'Circular Std Book' !important;
+    margin-bottom: 3px;
+    line-height: 24px;
+    font-size: 14px;
+    color: #33475b;
+}
+
 
 
 .down-load
